@@ -5,3 +5,7 @@ div{
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-size: 30px;
 }
+.photo{
+  height: 200px;
+  width: 400px;
+}
